@@ -1,0 +1,61 @@
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe.config
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.pdb
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.SuggestedBindingRedirects.cache
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Form1.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Properties.Resources.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.exe
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.pdb
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe.config
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.pdb
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.exe
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.pdb
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math.resources
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math2.resources
+C:\Users\kevin\OneDrive\Documentos\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math3.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe.config
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.exe
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\bin\Debug\Questions_And_Answers.pdb
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Form1.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos2.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos3.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos4.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos5.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math2.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math3.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Properties.Resources.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.GenerateResource.cache
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.exe
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.pdb
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars2.resources
+C:\Users\Luis Felipe\Desktop\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars3.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars2.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Cars3.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos2.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos3.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos4.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Logos5.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math2.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Math3.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Deportes.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Deportes2.resources
+C:\Users\braya\OneDrive\Documentos\Projects\Questions_And_Answers\Questions_And_Answers\obj\Debug\Questions_And_Answers.Deportes3.resources

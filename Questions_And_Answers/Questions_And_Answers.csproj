@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E706628D-B39C-4141-9F5E-E42B3C41778C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Questions_And_Answers</RootNamespace>
+    <AssemblyName>Questions_And_Answers</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cars.Designer.cs">
+      <DependentUpon>Cars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cars2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cars2.Designer.cs">
+      <DependentUpon>Cars2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes.Designer.cs">
+      <DependentUpon>Deportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes2.Designer.cs">
+      <DependentUpon>Deportes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes3.Designer.cs">
+      <DependentUpon>Deportes3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cars3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cars3.Designer.cs">
+      <DependentUpon>Cars3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logos.Designer.cs">
+      <DependentUpon>Logos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logos2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logos2.Designer.cs">
+      <DependentUpon>Logos2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logos3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logos3.Designer.cs">
+      <DependentUpon>Logos3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logos4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logos4.Designer.cs">
+      <DependentUpon>Logos4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logos5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logos5.Designer.cs">
+      <DependentUpon>Logos5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Math.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Math.Designer.cs">
+      <DependentUpon>Math.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Math2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Math2.Designer.cs">
+      <DependentUpon>Math2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Math3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Math3.Designer.cs">
+      <DependentUpon>Math3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cars.resx">
+      <DependentUpon>Cars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cars2.resx">
+      <DependentUpon>Cars2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cars3.resx">
+      <DependentUpon>Cars3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes.resx">
+      <DependentUpon>Deportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes2.resx">
+      <DependentUpon>Deportes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes3.resx">
+      <DependentUpon>Deportes3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logos.resx">
+      <DependentUpon>Logos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logos2.resx">
+      <DependentUpon>Logos2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logos3.resx">
+      <DependentUpon>Logos3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logos4.resx">
+      <DependentUpon>Logos4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logos5.resx">
+      <DependentUpon>Logos5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Math.resx">
+      <DependentUpon>Math.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Math2.resx">
+      <DependentUpon>Math2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Math3.resx">
+      <DependentUpon>Math3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_quizz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modernas-luces-de-neC3B3n-futurista-en-la-vieja-pared-de-ladrillo-grunge-fondo-de-la-sala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\math.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcas_carros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56152b77ae31a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atletismo-e1550017721661.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
